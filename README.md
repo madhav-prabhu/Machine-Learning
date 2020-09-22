@@ -1,2 +1,2 @@
 # Machine-Learning
-Demos &amp; Labs of Machine Learning Course at NYU
+Demos &amp; Labs of Machine Learning Graduate Course at NYU
